@@ -1,0 +1,22 @@
+{
+  "name": "element-iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericpkatz/element-iterator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericpkatz/element-iterator/issues"
+  },
+  "homepage": "https://github.com/ericpkatz/element-iterator#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0"
+  }
+}
